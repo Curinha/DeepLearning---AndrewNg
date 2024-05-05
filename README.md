@@ -1,3 +1,3 @@
 ## DeepLearning - AndrewNg
 
-Deep Learning course cotes by AndrewNg (Coursera platform)
+Deep Learning course notes by AndrewNg (Coursera platform)
